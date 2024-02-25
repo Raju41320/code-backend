@@ -1,0 +1,17 @@
+{
+  "name": "code-backend",
+  "version": "1.0.0",
+  "description": "a backend code for nodejs and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Raju Borkute",
+  "license": "ISC"
+}
