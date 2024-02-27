@@ -1,3 +1,3 @@
-# code and backend series
+# Backend code with Javascript
 
-This is a code on backend with javascript.
+This is a code on the backend with javascript.
